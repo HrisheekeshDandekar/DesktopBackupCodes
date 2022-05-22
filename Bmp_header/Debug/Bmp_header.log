@@ -1,0 +1,4 @@
+﻿  Bmp_metadata_reader.c
+C:\Users\pc\source\repos\Bmp_header\Bmp_metadata_reader.c(71,16): warning C4133: 'function': incompatible types - from 'BMP_file_header *' to 'char *'
+C:\Users\pc\source\repos\Bmp_header\Bmp_metadata_reader.c(101,21): warning C4133: 'function': incompatible types - from 'BITMAPCOREHEADER *' to 'char *'
+  Bmp_header.vcxproj -> C:\Users\pc\source\repos\Bmp_header\Debug\Bmp_header.exe
