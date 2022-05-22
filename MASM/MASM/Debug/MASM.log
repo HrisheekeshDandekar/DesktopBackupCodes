@@ -1,0 +1,16 @@
+﻿  Assembling MASM.asm...
+MASM.asm(1): error A2008: syntax error : section
+MASM.asm(2): error A2008: syntax error : global
+MASM.asm(4): error A2034: must be in segment block
+MASM.asm(5): error A2034: must be in segment block
+MASM.asm(6): error A2034: must be in segment block
+MASM.asm(7): error A2034: must be in segment block
+MASM.asm(8): error A2034: must be in segment block
+MASM.asm(9): error A2034: must be in segment block
+MASM.asm(11): error A2034: must be in segment block
+MASM.asm(12): error A2034: must be in segment block
+MASM.asm(14): error A2008: syntax error : section
+MASM.asm(15): error A2034: must be in segment block
+MASM.asm(16): error A2034: must be in segment block
+MASM.asm(16): error A2088: END directive required at end of file
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\MASM.obj" /W3 /errorReport:prompt  /TaMASM.asm" exited with code 1.

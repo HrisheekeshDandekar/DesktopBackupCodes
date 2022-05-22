@@ -1,0 +1,8 @@
+﻿  Chess.c
+C:\Users\pc\source\repos\CHESS\Chess.c(172,6): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\pc\source\repos\CHESS\Chess.c(168): warning C4716: 'board_display': must return a value
+C:\Users\pc\source\repos\CHESS\Chess.c(152): warning C4716: 'chess_board_set': must return a value
+C:\Users\pc\source\repos\CHESS\Chess.c(158): warning C4716: 'game_proceeds': must return a value
+C:\Users\pc\source\repos\CHESS\Chess.c(163): warning C4716: 'rematch_asked': must return a value
+C:\Users\pc\source\repos\CHESS\Chess.c(173): warning C4716: 'pieces_set': must return a value
+  CHESS.vcxproj -> C:\Users\pc\source\repos\CHESS\Debug\CHESS.exe

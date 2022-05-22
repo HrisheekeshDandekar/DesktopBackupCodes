@@ -1,0 +1,5 @@
+﻿  Source1.c
+C:\Users\pc\source\repos\LibSort\LibSort\Source1.c(85,15): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'Item *'
+C:\Users\pc\source\repos\LibSort\LibSort\Source1.c(75,10): warning C4101: 'temp': unreferenced local variable
+C:\Users\pc\source\repos\LibSort\LibSort\Source1.c(156,9): warning C4101: 'count': unreferenced local variable
+  LibSort.vcxproj -> C:\Users\pc\source\repos\LibSort\Debug\LibSort.exe
