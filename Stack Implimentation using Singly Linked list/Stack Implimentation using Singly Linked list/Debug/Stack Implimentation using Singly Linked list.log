@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\pc\source\repos\Stack Implimentation using Singly Linked list\Stack Implimentation using Singly Linked list\Source.cpp(101,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\source\repos\Stack Implimentation using Singly Linked list\Stack Implimentation using Singly Linked list\Source.cpp(102): warning C4715: 'uppermostofstack': not all control paths return a value
+  Stack Implimentation using Singly Linked list.vcxproj -> C:\Users\pc\source\repos\Stack Implimentation using Singly Linked list\Debug\Stack Implimentation using Singly Linked list.exe

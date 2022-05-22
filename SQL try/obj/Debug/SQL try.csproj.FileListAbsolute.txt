@@ -1,0 +1,5 @@
+C:\Users\pc\source\repos\SQL try\obj\Debug\SQL try.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\SQL try\obj\Debug\SQL_try.Form1.resources
+C:\Users\pc\source\repos\SQL try\obj\Debug\SQL_try.Properties.Resources.resources
+C:\Users\pc\source\repos\SQL try\obj\Debug\SQL try.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\SQL try\obj\Debug\SQL try.csproj.CoreCompileInputs.cache
