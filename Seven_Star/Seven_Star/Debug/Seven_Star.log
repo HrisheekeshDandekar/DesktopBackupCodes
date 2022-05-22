@@ -1,0 +1,14 @@
+﻿  Star_seven.c
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(105,58): warning C4013: 'star_active_or_not' undefined; assuming extern returning int
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(117,31): warning C4047: '<': 'int *' differs in levels of indirection from 'int'
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(73,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(74,6): warning C4101: 'pos': unreferenced local variable
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(161,34): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(162,34): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(220,30): warning C4087: 'rand': declared with 'void' parameter list
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(221,32): warning C4087: 'rand': declared with 'void' parameter list
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(222,31): warning C4087: 'rand': declared with 'void' parameter list
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(189,1): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(173): warning C4716: 'star_size': must return a value
+C:\Users\pc\source\repos\Seven_Star\Seven_Star\Star_seven.c(239): warning C4716: 'star_dies': must return a value
+  Seven_Star.vcxproj -> C:\Users\pc\source\repos\Seven_Star\Debug\Seven_Star.exe
