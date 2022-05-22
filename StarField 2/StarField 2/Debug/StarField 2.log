@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\pc\source\repos\StarField 2\StarField 2\Source.cpp(145,13): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\pc\source\repos\StarField 2\StarField 2\Source.cpp(272,28): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\pc\source\repos\StarField 2\StarField 2\Source.cpp(273,28): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\pc\source\repos\StarField 2\StarField 2\Source.cpp(317,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  StarField 2.vcxproj -> C:\Users\pc\source\repos\StarField 2\Debug\StarField 2.exe
