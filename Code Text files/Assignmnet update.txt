@@ -1,0 +1,8 @@
+Enter string in the printed box. 
+Print a menue. with box around each word
+
+Take the length of the box acc to the menue input
+ Error cases: Menue string too big.
+
+Learn "extern"
+use draw_box.c in print_menue.c
