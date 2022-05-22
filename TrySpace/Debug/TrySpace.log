@@ -1,0 +1,10 @@
+﻿  PlusPlusSpcae.cpp
+C:\Users\pc\source\repos\TrySpace\PlusPlusSpcae.cpp(37,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pc\source\repos\TrySpace\PlusPlusSpcae.cpp(61,22): error C2872: 'data': ambiguous symbol
+C:\Users\pc\source\repos\TrySpace\PlusPlusSpcae.cpp(21,5): message : could be 'int data'
+C:\Users\pc\source\repos\TrySpace\PlusPlusSpcae.cpp(61,22): message : or       'data'
+C:\Users\pc\source\repos\TrySpace\PlusPlusSpcae.cpp(65,28): error C2872: 'data': ambiguous symbol
+C:\Users\pc\source\repos\TrySpace\PlusPlusSpcae.cpp(21,5): message : could be 'int data'
+C:\Users\pc\source\repos\TrySpace\PlusPlusSpcae.cpp(65,28): message : or       'data'
+C:\Users\pc\source\repos\TrySpace\PlusPlusSpcae.cpp(61,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pc\source\repos\TrySpace\PlusPlusSpcae.cpp(85,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
