@@ -1,0 +1,6 @@
+all:
+	go build data_hunt.go
+	strip data_hunt
+
+clean:
+	rm test data_hunt

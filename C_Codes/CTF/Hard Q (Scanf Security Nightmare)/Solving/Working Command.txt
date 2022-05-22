@@ -1,0 +1,4 @@
+Solver must write a utility which passes arguments bruteforcing the lengths of 2 arrays in a single input argument untill the lengths match
+
+Command that works:
+python3 Server_Side_Input.py < <(python -c "print('123456789012345678901234567890'+'\x00'+'1234567890'+'\x00')")

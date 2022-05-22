@@ -1,0 +1,6 @@
+Find the unreachable code and make sure it runs. 
+You'll also get a crucial hint about the question in the unreachable print statement
+Once last 2 functions are  re-arranged to run before returning 0 in main, 
+Resize the binary to ( 171,146 ) bytes and run
+
+[ 171,146 is the total number of words in eng lang currently in use ]

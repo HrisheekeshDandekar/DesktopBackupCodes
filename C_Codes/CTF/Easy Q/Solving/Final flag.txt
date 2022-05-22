@@ -1,0 +1,5 @@
+Site used for binary to text converstion : http://www.unit-conversion.info/texttools/convert-text-to-binary/
+
+File Contents:-
+Flag -> VishwaCTF{Tabs_are_standard.py}
+Also tabs are one character which take less space in source.
