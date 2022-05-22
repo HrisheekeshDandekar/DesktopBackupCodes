@@ -1,0 +1,11 @@
+I have no idea where to start
+1. Try examining the binary with a reverse engineering platform.
+
+I still have no idea what to do
+2. Try creating your own go binaries and analyzing how they work.
+
+Internal Notes
+Golang binaries always put user-defined functions at the very end. 
+Analyzing the call instructions you will get a small list of functions. 
+One of the functions has data and an xor. 
+Go to the data, write the data out into a string, and xor it with 0x8 to get the flag.
